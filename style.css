@@ -1,0 +1,18 @@
+body {
+  background-color: chartreuse;
+}
+
+div {
+  background-color: cornsilk;
+  width: 95vw;
+  margin: 10px auto;
+  padding: 12px;
+  text-align: center;
+}
+img {
+  width: 80vw;
+}
+
+/* #plantPic {
+  transform: rotate(90deg);
+} */
