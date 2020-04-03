@@ -1,5 +1,5 @@
 body {
-  background-color: chartreuse;
+  background-color: #1A769A;
 }
 
 div {
@@ -9,9 +9,24 @@ div {
   padding: 12px;
   text-align: center;
 }
-img {
-  width: 80vw;
+
+h1 {
+  font-family: 'Modak', hevetica, cursive;
+  font-size: 120px;
 }
+
+p {
+  font-family: 'Comic Neue', cursive;
+  font-weight: 300;
+  text-align: left;
+  color: peru;
+  font-size: 40px;
+}
+
+img {
+  width: 600px;
+}
+
 
 /* #plantPic {
   transform: rotate(90deg);
